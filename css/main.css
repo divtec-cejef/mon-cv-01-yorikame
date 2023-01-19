@@ -1,0 +1,61 @@
+body {
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: red;
+    background-image: url("../image/WealthyBelovedGreatdane-max-1mb.gif");
+    background-size: 149%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 200px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+a {
+    color: orangered;
+    text-decoration: none;
+}
+
+h2, .logo {
+    font-family: 'Pacifico', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 800;
+    color: darkred;
+    font-size: 2em;
+}
+
+h1, h1 + p {
+    text-align: center;
+}
+
+h2 {
+    color: darkred;
+}
+
+footer a {
+    color: black;
+    text-shadow: 2px 2px 3px red;
+}
+
+p.image{
+    border: 50px orange;
+}
+
+footer a:hover {
+    color: red;
+    text-shadow: 1px 1px 3px black;
+}
+
+a:hover {
+    color: orange;
+}
